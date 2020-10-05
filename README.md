@@ -1,7 +1,7 @@
 # diamonds-project
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/4e/7f/82/4e7f8222b55cfd75076ce1f5960e3be3.gif" width="250" height="250">
+<img src="https://lh3.googleusercontent.com/proxy/xpkAtpNsiuBi8zOUBCjl4gdn8GoDBEYfNeMp2z6tKXlKsmUWavVVBKaXXV7r49rx-Xpx4MC0ybnlYQF-DTBPZlZEaYjGDQ" width="350" height="250">
 
 El **objetivo** de este proyecto es predecir mediante machine learning el precio de los diamantes atendiendo a sus características (peso, color, calidad de corte).
 
