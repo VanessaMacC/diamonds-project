@@ -32,7 +32,7 @@ Tras entrenar los modelos y seleccionar los que nos dan mejores métricas, ejecu
 Archivos csv con la predicción obtenida de cada modelo cumpliendo con el formato de la competición Kaggle de nuestro bootcamp (<https://www.kaggle.com/c/diamonds-datamad0820>)
 
 <p align="center">
-<img src="./ResumenDiamonsProject.jpg" width="500" height="250">
+<img src="./ResumenDiamonsProject.jpg" width="700" height="500">
 
 
 
