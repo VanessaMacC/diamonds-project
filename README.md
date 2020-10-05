@@ -16,6 +16,13 @@ El **objetivo** de este proyecto es predecir mediante machine learning el precio
 - Tests:
 
 Esta carpeta contiene el archivo de limpieza y análisis del dataset propuesto para realizar el proyecto (*train_completed*).\
+Las librerías usadas son las siguientes:
+
+**pandas**\
+**requests**\
+**matplotlib.pyplot**\
+**sklearn**
+
 En él entrenamos varios modelos de predicción y una vez analizadas las métricas, seleccionamos los mejores, en este caso:
 
 RandomForestRegressor\
