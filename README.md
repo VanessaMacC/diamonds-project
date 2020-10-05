@@ -16,7 +16,7 @@ El **objetivo** de este proyecto es predecir mediante machine learning el precio
 - Tests:
 
 Esta carpeta contiene el archivo de limpieza y análisis del dataset propuesto para realizar el proyecto (*train_completed*).\
-En el entrenamos varios modelos de predicción y una vez analizadas las métricas, seleccionamos los mejores, en este caso:
+En él entrenamos varios modelos de predicción y una vez analizadas las métricas, seleccionamos los mejores, en este caso:
 
 RandomForestRegressor\
 HistGradientBoostingRegressor\
