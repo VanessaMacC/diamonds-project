@@ -34,6 +34,8 @@ Archivos csv con la predicción obtenida de cada modelo cumpliendo con el format
 <p align="center">
 <img src="./ResumenDiamonsProject.jpg" width="700" height="500">
 
+(<https://www.youtube.com/watch?v=naoknj1ebqI>)
+
 
 
 
